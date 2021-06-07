@@ -1,0 +1,77 @@
+.jumanji{
+	font-family: "Times New Roman", Times, Serif;
+	text-align: center;
+	color: black;
+	font-weight: bold;
+	background-image: url(images/paul-larkin-524582.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+}
+.alpha{
+
+	font-weight: bold;
+}
+.seraph{
+	color: black;
+	font-weight: bold;
+	font-size: 15px;
+}
+h1,h3{
+	color: white;
+}
+.span1{
+	color: red;
+}
+.beta {
+    width: 40%;
+    margin: 125px auto;
+    -webkit-box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.75);
+    padding: 50px;
+}
+.heading{
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+	color: white;
+}
+.knight {
+    padding: 12px 15px;
+    border-bottom:2px solid #fb6906;
+    background: #fff;
+}
+.knight input[type="text"], .knight input[type="password"], .knight input[type="number"] {
+    outline: none;
+    font-size: .9em;
+    border: none;
+    background: transparent;
+    width: 50%;
+    color: #000;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 1px;
+}
+.submit input[type="submit"] {
+    color: #fff;
+    background: #fb6906;
+    border: none;
+    padding: 12px 45px;
+    outline: none;
+    font-size: .9em;
+    cursor: pointer;
+    letter-spacing: 1px;
+    font-family: 'Roboto', sans-serif;
+    -webkit-transition: 0.5s all;
+    -o-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+    -ms-transition: 0.5s all;
+    transition: 0.5s all;
+}
+.submit input[type="submit"]:hover {
+    background: #fff;
+    color: black;
+	-webkit-transition: 0.5s all;
+    -o-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+    -ms-transition: 0.5s all;
+	transition: 0.5s all;
+}
